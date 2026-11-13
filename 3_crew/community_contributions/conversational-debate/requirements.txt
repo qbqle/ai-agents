@@ -331,7 +331,7 @@ pdfminer-six==20250506
     # via pdfplumber
 pdfplumber==0.11.7
     # via crewai
-pillow==11.3.0
+pillow==13.0.0
     # via
     #   gradio
     #   pdfplumber
